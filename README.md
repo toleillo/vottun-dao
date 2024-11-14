@@ -1,6 +1,6 @@
 # SimpleDAO Smart Contract
 
-A decentralized autonomous organization (DAO) smart contract that enables collective decision-making and fund management on the Ethereum blockchain.
+A decentralized autonomous organization (DAO) smart contract that enables collective decision-making and fund management on the Ethereum compatible blockchains.
 
 ## Overview
 
