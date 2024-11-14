@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "truffle-assertions": "^0.9.2"
+  },
+  "name": "vottun-dao",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
